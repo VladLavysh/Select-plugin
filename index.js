@@ -16,5 +16,3 @@ const select = new Select("#select", {
     console.log("Selected Item", item);
   },
 });
-
-window.s = select;
